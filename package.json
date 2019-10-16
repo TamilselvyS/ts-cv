@@ -1,0 +1,23 @@
+{
+  "name": "resume-ts",
+  "version": "1.0.0",
+  "description": "Tamilselvy resume",
+  "main": "index.js",
+  "scripts": {
+    "compile:sass": "node-sass sass/main.scss css/style.css -w"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TamilselvyS/ts-cv.git"
+  },
+  "author": "Tamilselvy",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TamilselvyS/ts-cv/issues"
+  },
+  "homepage": "https://github.com/TamilselvyS/ts-cv#readme",
+  "dependencies": {},
+  "devDependencies": {
+    "node-sass": "^4.12.0"
+  }
+}
